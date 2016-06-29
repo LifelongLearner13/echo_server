@@ -1,0 +1,22 @@
+{
+  "name": "echo_server",
+  "version": "1.0.0",
+  "description": "A HTTP Echo Server",
+  "main": "echo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LifelongLearner13/echo_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LifelongLearner13/echo_server/issues"
+  },
+  "homepage": "https://github.com/LifelongLearner13/echo_server#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
